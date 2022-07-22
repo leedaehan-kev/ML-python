@@ -1,5 +1,5 @@
 # ML-python
-파이썬 머신러닝 완벽 가이드(권철민 저)를 공부하며 모아놓은 자료들입니다.
+### [파이썬 머신러닝 완벽 가이드(권철민 저)] (https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292601583)를 공부하며 모아놓은 자료들입니다.
 
 ▣ 1장: 파이썬 기반의 머신러닝과 생태계 이해
 
@@ -21,6 +21,6 @@
 
 ▣ 10장: 시각화
 
-https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292601583
+
 
 sample code도 포함되어있습니다.
